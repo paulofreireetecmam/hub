@@ -1,0 +1,172 @@
+.titulo {
+    width: 1000px;
+    height: 250px;
+}
+
+
+.pf2 {
+    width: 800px;
+    height: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+.ftbio {
+    
+    height: 390px;
+    width: 290px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h4 {
+    font-family: 'Alfa Slab One', cursive;
+    margin-top: 50px;
+    font-size: 40px;
+ 
+}
+
+h1 {
+    font-family: 'Alfa Slab One', cursive;
+    margin-top: 50px;
+ 
+}
+
+h2 {
+    font-family: 'EB Garamond', serif;
+    font-size: 23px;
+    text-align: left;
+    margin-left: 50px;
+}
+
+h3 {
+    font-family: 'Alfa Slab One', cursive;
+    margin-top: 50px; 
+    font-size: 20px;
+    margin-left: 50px;
+    text-align: left;
+}
+
+
+
+.caricatura {
+  
+    height: 400px;
+    width: 1000px;
+}
+
+.quadrinhos {
+    
+    height: 500px;
+    width: 800px;
+}
+
+.quadrinhos2 {
+ 
+    height:200px;
+    width: 500px;
+}
+
+
+.titulo2 {
+    width: 1000px;
+    height: 400px;
+}
+
+.ftlivro  {
+    height: 400px;
+    width: 300px;
+}
+
+.myButton {
+	background-color:#000000;
+	border-radius:28px;
+	border:1px solid #c7c7c7;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #9c9c9c;
+    margin-left: 70px;
+}
+.myButton:hover {
+	background-color:#d9d9d9;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton2 {
+	background-color:#838383;
+	border-radius:28px;
+	border:1px solid #bbbfbc;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding: 8px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #686767;
+    margin-top: 5px;
+    margin-left: 10px;
+ 
+}
+.myButton2:hover {
+	background-color:#b8b8b8;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+
+td {
+    padding-left: 50px;
+    margin-left: 300px;
+    margin-bottom:30px ;
+    
+}
+
+.tabela2 {
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+
+.video {
+    width: 450px;
+}
+
+.reportagens {
+    font-family: 'Alfa Slab One', cursive;
+    margin-top: 50px;
+    color: #000000;
+}
+
+.lgndlivro {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.semanacps {
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 23px;
+}
+
+.rodape {
+    background-color: #000000;
+    height: 111px;
+}
+

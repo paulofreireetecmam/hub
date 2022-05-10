@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(247, 247, 247);
+}
+
+main{
+    font-family: 'Sanchez', serif;
+}
+
+.titulo{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 46px;
+}
+
+.quad1{
+    margin-left: 3%;
+    width: 60%;
+    height: 300px;
+}
+
+.desc1{
+    position: absolute;
+    margin-left: 67%;
+    margin-top: -10%;
+    font-size: 20px;
+}
+
+.quad2{
+    margin-left: 3%;
+    width: 60%;
+    height: 300px;
+}
+
+.desc2{
+    position: absolute;
+    margin-left: 67%;
+    margin-top: -10%;
+    font-size: 20px;
+}
+
+.quad3{
+    margin-left: 3%;
+    width: 52%;
+    height: 600px;
+}
+
+.desc3{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: -20%;
+    font-size: 20px;
+}

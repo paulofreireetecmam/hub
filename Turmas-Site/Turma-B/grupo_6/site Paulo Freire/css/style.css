@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+li, a {
+    font-weight: 400;
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 10px;
+    background-color: rgb(202, 4, 4);
+    box-shadow: 0.5px 0.5px 5px rgba(0, 0, 0, 0.377);
+}
+
+.logo {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 24px;
+    color: white;
+}
+
+.nav_links {
+    list-style: none;
+}
+
+.nav_links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav_links li a{
+    transition: all 0.3s ease 0s;
+}
+
+.nav_links li a:hover{
+    color: rgb(51, 51, 51);
+}
+
+
+.semana-paulo-freire-CPS {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: column;
+    padding: 60px
+}
+
+.titulo-semana {
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 1.25rem;
+    font-weight: 600;
+    border-left: 0.5rem solid #ff2525;
+}
+
+.descricao-semana{
+    font-weight: 400;
+    text-align: left;
+    padding-top: 10px;
+
+}
+
+.biografia-cps {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: column;
+    padding: 60px
+}
+
+.titulo-biografia {
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 1.25rem;
+    font-weight: 600;
+    border-left: 0.5rem solid #ff2525;
+}
+
+.descricao-biografia{
+    font-weight: 400;
+    text-align: left;
+    padding-top: 10px;
+
+}
+
+.topico-biografia {
+    padding-top: 12px;
+    font-weight: 600;
+    text-align: left;
+    font-size: 22px;
+}
+
+.descricao-carreira {
+    font-weight: 400;
+    text-align: left;
+    padding-top: 10px;
+}
+
+.descricao-formacao {
+    font-weight: 400;
+    text-align: left;
+    padding-top: 10px;
+}
+
+.contribuicao-paulofreire {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: column;
+    padding: 60px
+}
+
+.titulo-contribuicao {
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 1.25rem;
+    font-weight: 600;
+    border-left: 0.5rem solid #ff2525;
+}
+
+.descricao-contribuicao{
+    font-weight: 400;
+    text-align: left;
+    padding-top: 10px; 
+}
+
+.reportagem-paulofreire {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: column;
+    padding: 60px
+}
+
+.titulo-reportagem {
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 1.25rem;
+    font-weight: 600;
+    border-left: 0.5rem solid #ff2525;
+}
+
+.descricao-reportagem {
+    font-weight: 400;
+    text-align: left;
+    padding-top: 10px; 
+}
+
+.video-reportagem {
+    padding-top: 30px;
+}

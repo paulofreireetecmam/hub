@@ -1,0 +1,105 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(../img/BANNERFUNDO\ \(1\).jpg) ;
+    background-repeat: no-repeat;
+   
+}
+
+#div_turma_a {
+    margin-bottom: 50px;
+}
+
+.titulo__principal{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+
+.alunos{
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+
+
+.titulo__turmas{
+    text-align: center;
+    font-size: 2.4em;
+    font-weight: bold;
+    
+}
+
+.div_turma {
+    position:relative;
+    margin: 0 auto;
+}
+
+ul{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+li{
+    
+    margin: 15px;
+    min-width: 170px;
+    height: 220px;
+   
+   
+}
+
+img{
+    
+    margin-top: 40px;
+    width: 170px;
+    height: 180px;
+    overflow: visible;
+    border-radius: 50%;
+    object-fit: cover;
+    box-sizing: border-box;
+    border: 1px solid rgb(94, 94, 94);
+    box-shadow: rgb(77, 77, 77) 0.1em 0.1em 0.1em 
+}
+
+img:hover{
+    opacity: 50%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+p{
+    padding-top: 1rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+@media (max-width:1600px) {
+    .titulo__principal{
+        margin-bottom: 27px;
+        margin-top: 27px;
+        font-size: 1.6rem;
+    }
+    .titulo__turmas{
+        font-size: 1.3em;
+    }
+    img{
+        margin-top: 22px;
+        width: 119px;
+        height: 126px;
+    }
+    li{
+        font-size: 14px;
+        margin: 6px;
+        min-width: 100px;
+    }
+    #div_turma_a {
+        margin-bottom: 22px;
+    }
+
+    p{
+        font-size: 12.5px;
+    }
+}

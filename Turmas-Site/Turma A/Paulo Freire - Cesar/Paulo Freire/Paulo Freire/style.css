@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&display=swap');
+
+*{
+margin: 0 auto;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Open Sans', sans-serif;
+}
+
+.Imagem{
+    text-align: center;
+    width: 80%;
+    margin-left: 5px;
+    padding: 15px;
+   
+}
+
+.Texto{
+    text-align: center;
+}
+body{
+    background-color: burlywood;
+
+}
+
+#menu-h ul{
+    list-style-type:none ;
+    padding: 0;
+    background: rgb(236, 172, 87);
+    max-width: 800px;
+    
+}
+
+#menu-h ul li{
+    display: inline
+    
+}
+
+#menu-h ul li a{
+    color: rgb(255, 0, 0);
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+    
+}
+#menu-h ul li:last-child a {
+float: right;
+background: rgb(248, 144, 59);
+}
+
+#menu-h ul li a:hover{
+background-color: rgb(247, 129, 33);
+}
+
+h4 {
+   margin-left: 1px;
+   padding: 30px;
+  
+
+}
+
+h3 {
+    margin-left: 1px;
+    padding: 30px;
+}
+
+.omagem {
+    text-align: center;
+    width: 25%;
+    margin-left: 5px;
+    padding: 15px;
+}
+
+.noz {
+    text-align: left;
+    width: 50%;
+    margin-left: 5px;
+    padding: 15px;  
+}
+
+.noish {
+    text-align: left;
+    width: 50%;
+    margin-left: 5px;
+    padding: 15px;
+}

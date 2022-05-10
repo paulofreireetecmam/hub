@@ -1,0 +1,21 @@
+.title{
+padding-top: 30px;
+text-align: center;
+font-size: 46px;
+
+}
+
+.title2{
+    padding-top: 28px;
+    font-size: 40px;
+    margin-left: 4%;
+    color: rgb(143, 10, 10);
+    }
+    
+
+.text{
+padding-top: 33px;
+font-size: 20px;
+margin-left: 4%;
+line-height: 33px;
+}

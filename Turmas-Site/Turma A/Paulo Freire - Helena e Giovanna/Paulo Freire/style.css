@@ -1,0 +1,152 @@
+body {
+    background-color: #fffdf9;
+    text-decoration: none;
+}
+
+header {
+    background: #d14f0f;
+    padding: 0px 0;
+}
+
+nav {
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #ffe8b5;
+    text-decoration: underline;
+}
+
+.container {
+    padding: 7em 0;
+    background: linear-gradient( #fdfdfd, #ffe8b5);
+}
+
+.container h1 {
+    color: #d14f0f;
+    font-size: 30px;
+    font-style: unset;
+    position: absolute;
+    left: 40%;
+    top: 800px;
+}
+
+.container p {
+    font-size: 30px;
+    font-style: unset;
+    position: absolute;
+    left: 690px;
+    top: 890px;
+}
+
+.container img {
+    position: relative;
+    left: 100px;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+    transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.container img:after {
+    content: "";
+    position: absolute;
+    background-color: #eecece;
+    opacity: 0;
+    border-radius: 5px;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.3);
+    transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.container img:hover {
+    transform: scale(1.10, 1.10);
+}
+
+.container img:hover:after {
+    opacity: 1;
+}
+
+.container img {
+    position: left;
+}
+
+.container2 {
+    padding: 8em 0;
+    background: linear-gradient(#ffe8b5, #fdfdfd);
+}
+
+.container2 p {
+    font-size: 30px;
+    font-style: unset;
+    position: absolute;
+    left: 190px;
+    top: 1650px;
+}
+
+.container2 img {
+    position: relative;
+    left: 58%;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+    transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.container2 img:after {
+    content: "";
+    position: absolute;
+    background-color: #eecece;
+    opacity: 0;
+    border-radius: 5px;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.3);
+    transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.container2 img:hover {
+    transform: scale(1.10, 1.10);
+}
+
+.container2 img:hover:after {
+    opacity: 1;
+}
+
+.container2 img {
+    position: left;
+}
+
+.reportagens {
+    position: relative;
+    top: 5%;
+    left: 2%;
+    padding: 7em 0;
+    background: linear-gradient( #fdfdfd);
+}
+
+.reportagens h1 {
+    color: #d14f0f;
+    font-size: 40px;
+    font-style: unset;
+}
+
+.reportagens a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.reportagens a:hover {
+    color: #d14f0f;
+    text-decoration: underline;
+}

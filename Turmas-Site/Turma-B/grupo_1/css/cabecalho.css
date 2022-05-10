@@ -1,0 +1,72 @@
+header{
+    text-align: center;
+}
+
+.logo{
+    width: 18.7%;
+}
+
+
+
+.bio{
+    position: absolute;
+    margin-left: 38.5%;
+    font-size: 28px;
+    margin-top: -2%;
+    font-family: 'Sanchez', serif;
+}
+
+.bio:hover{
+    color: rgb(143, 10, 10);
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 28.3px;
+   transition: 0.2s;
+}
+
+.home{
+    position: absolute;
+    margin-top: -2%;
+    margin-left: 47.5%;
+    font-size: 28px;
+    font-family: 'Sanchez', serif;
+}
+
+.home:hover{
+    color: rgb(143, 10, 10);
+   cursor: pointer;
+   text-decoration: underline;
+   font-size: 28.3px;
+   transition: 0.2s;
+    
+}
+
+
+.quadrinho{
+    position: absolute;
+    margin-left: 54%;
+    font-size: 28px;
+    margin-top: -2%;
+    font-family: 'Sanchez', serif;
+}
+
+
+.quadrinho:hover{
+    color: rgb(143, 10, 10);
+   cursor: pointer;
+   text-decoration: underline;
+   font-size: 28.3px;
+   transition: 0.2s;
+    
+}
+
+hr{
+    width: 25%;
+    height: 1.5px;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

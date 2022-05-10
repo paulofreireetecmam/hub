@@ -1,0 +1,75 @@
+body{
+	background: #FFF8DC;
+}
+
+h1 {
+	text-align: center;
+	color: #A52A2A;
+	font-size: 50px;
+	font-family: 'Pacifico', cursive;
+    font-style: italic;
+}
+
+h2{
+	text-align: center;
+	color: #A52A2A;
+	font-size: 25px;
+	font-family: 'Pacifico', cursive;
+    font-style: italic;
+}
+
+h3{
+	text-align: center;
+	margin: 30px 0 17px 0;
+	color: #A52A2A;
+	font-size: 25px;
+	font-family: 'Pacifico', cursive;
+    font-style: italic;
+}
+
+div{
+	width: 500px; 
+	border: 1px solid #000000;
+	margin-right: 40%;
+	margin-top: 10%;
+	margin-left: 9%;
+}
+
+p{
+	margin: 10px 10px 10px 10px;
+}
+
+.p {
+	border-radius: 500px;
+	width: 20%;
+	margin: 0px 0 100px 0;
+}
+
+.cps{
+    width: 100px;
+}
+
+ .sp{
+ 	width: 100px;
+ 	margin-right: 1200px;
+ }
+
+.imagem{
+	float: right;
+	width: 45%;
+	margin: 50px 60px 0 0;
+}
+
+.caricatura{
+	position: absolute;
+    width: 180px;
+    margin-top: 28%;
+    margin-left: 20%;
+}
+
+.div{
+	width: 500px; 
+	border: 1px solid #000000;
+	margin-left: 55%;
+	margin-top: 12%;	
+}

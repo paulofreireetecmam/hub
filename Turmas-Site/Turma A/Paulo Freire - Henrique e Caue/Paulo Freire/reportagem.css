@@ -1,0 +1,76 @@
+body{
+    background: #FFF8DC;
+}
+
+h1 {
+    text-align: center;
+    color: #A52A2A;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+    font-style: italic;
+}
+
+h2{
+    text-align: center;
+    color: #A52A2A;
+    font-size: 25px;
+    font-family: 'Pacifico', cursive;
+    font-style: italic;
+}
+
+h3{
+    text-align: center;
+    margin: 30px 0 17px 0;
+    color: #A52A2A;
+    font-size: 25px;
+    font-family: 'Pacifico', cursive;
+    font-style: italic;
+}
+
+div{
+    width: 200px; 
+    border: 1px solid #000000;
+    margin: 15px 200px 80px 1300px;
+    padding-right: 12px;
+    padding-left: 12px; 
+}
+
+p{
+    margin: 10px 10px 10px 10px;
+}
+
+.cps{
+    width: 100px;
+}
+
+.sp{
+    width: 100px;
+    margin-right: 1250px;
+ }
+
+.p {
+    border-radius: 500px;
+    width: 20%;
+    margin: 0px 0 100px 0;
+}
+
+.pf100{
+    float: left;
+    width: 40%;
+    margin: 20px 0 0 150px;
+}
+
+.video{
+    width: 100%;
+}
+
+.pedagogia{
+    position: absolute; 
+    width: 475px;
+    margin-top: 32%;
+    margin-left: -31%;
+}
+
+.semana{
+    width: 270px;
+}

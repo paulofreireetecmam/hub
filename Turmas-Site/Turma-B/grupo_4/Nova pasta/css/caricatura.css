@@ -1,0 +1,16 @@
+h1 {
+    font-size: 27px;
+    font-family: Andale Mono, monospace;
+    text-align: center;
+}
+
+
+hr {
+    width: 90%;
+}
+
+.imagens {
+    width: 400px;
+    height: 400px;
+    margin-left: 60px;
+}

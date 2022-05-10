@@ -1,0 +1,52 @@
+.img{
+    width: 1000px;
+    height: 490px;
+}
+
+.text1{
+    font-size: 30px;
+    text-align: center;
+}
+.new{
+    height: 100px;
+}
+
+div {
+    border: 1px solid gray;
+    padding: 8px;
+  }
+  
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+  }
+  
+  p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+  }
+  a {
+    text-decoration: none;
+    color: #008CBA;
+  }
+  .clearfix {
+    overflow: auto;
+  }
+.img1{
+    float:left;
+    margin: 0 30px 0 30px;
+}
+.frase{
+  font-size: 150%;
+  text-align: center;
+  font-style: italic;
+}
+.texto2{
+  margin: 0 90px 0 10px;
+}
+.carta{
+  float:right;
+  width: 30%;
+}

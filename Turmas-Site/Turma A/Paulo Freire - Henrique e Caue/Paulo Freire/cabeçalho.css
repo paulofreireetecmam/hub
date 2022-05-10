@@ -1,0 +1,33 @@
+.cabecalho {
+    align-items: center;
+    background: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding: 10px;
+}
+
+.menu-link {
+    color: #A52A2A;
+    margin-right: 4rem;
+    text-decoration: none;
+    font-family: 'Sanchez', serif;
+}
+
+.menu-link.ativo {
+    color: #333333;
+    font-weight: bold;
+}
+
+.menu-link:hover {
+    text-decoration: underline;
+}
+
+.menu-item {
+    list-style: none;
+}
+
+.menu-lista {
+    display: flex;
+}
